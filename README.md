@@ -1,16 +1,51 @@
-## Hi there 👋
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hi, I'm Vladimir
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<!--
-**NithaRe/NithaRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Front-End Developer** · HTML/CSS · Javascript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><a href="https://github.com/NithaRe" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+---
+<!-- 
+**<h3 align="left">Tech Stack</h3>**
+
+<h4>Front-End</h4>
+<img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/TypeScript-21232A?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/React-21232A?logo=react&logoColor=ffffff" height="28" alt="React" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Node.js-21232A?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Tailwind_CSS-21232A?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> 
+
+<h4>Databases</h4>
+<img src="https://img.shields.io/badge/PostgreSQL-21232A?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/MySQL-21232A?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/MongoDB-21232A?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px">
+
+
+<h4>Tooling</h4>
+<img src="https://img.shields.io/badge/Python-21232A?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Shell-21232A?logo=gnu-bash&logoColor=white" height="28" alt="Shell" style="margin-right: 4px">
+
+<h4>Workflow</h4>
+<img src="https://img.shields.io/badge/Figma-21232A?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Postman-21232A?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-21232A?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px">
+
+--- -->
+
+
+**<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://streak-stats.vercel.app/?user=NithaRe&theme=react" alt="GitHub Streak" />
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=NithaRe&label=Profile%20views&color=61DAFB&style=flat)
