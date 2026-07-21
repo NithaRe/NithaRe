@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-**Junior Front-End Developer** · HTML/CSS · Javascript
+**System Engineer** · C/C++ · C# · Python
 
 
 <p align="left"><a href="https://github.com/NithaRe" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
